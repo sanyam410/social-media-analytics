@@ -1,0 +1,7 @@
+pymongo
+faker
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
